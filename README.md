@@ -1,5 +1,6 @@
-# database-web
-connecting web application to external database
+# Post-Redirect-Get
+Avoid re-submission of the form.
+After submitting a form, do NOT forward the request but REDIRECT the RESPONSE
 
 Create your own Secret.java
 
